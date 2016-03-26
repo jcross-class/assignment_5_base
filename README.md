@@ -99,7 +99,7 @@ You need to clone your private git repo for assignment 5 to your computer and ma
 Grading
 -------
 Points|Part|Requirement
-------|------------
+------|----|-----------
 2 | 1 | response-headers
 2 | 1 | request-headers
 2 | 1 | Question 1
